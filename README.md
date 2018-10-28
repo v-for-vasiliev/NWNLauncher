@@ -1,0 +1,2 @@
+# NWNLauncher
+Neverwinter Nights Launcher
